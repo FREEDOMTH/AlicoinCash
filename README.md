@@ -1,0 +1,2 @@
+# AlicoinCash
+Smart contract - Token
